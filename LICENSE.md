@@ -1,4 +1,4 @@
-# 
+# premium KeePassXC for macOS Helper | device-lock + network-monitoring offers the most advanced KeePassXC for macOS helper, with device-lock and network-monitoring. Ideal for macOS
 
 
 
